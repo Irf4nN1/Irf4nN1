@@ -2,7 +2,7 @@ Hi there! 👋 I'm Irfan Bin
 Welcome to my GitHub profile! I'm passionate about portfolio management and love diving into the world of finance. On this page, you'll find a mix of my projects, contributions, and a little bit about me.
 
 🔍 About Me
-🎓 Currently studying Commercial Engineering at Federico Santa María Technical Univeristy
+🎓 Currently studying Commercial Engineering at Federico Santa María Technical University
 📈 Fascinated by portfolio management, financial markets, and investment strategies
 🚀 What I'm Working On
 Right now, I'm focused on:
